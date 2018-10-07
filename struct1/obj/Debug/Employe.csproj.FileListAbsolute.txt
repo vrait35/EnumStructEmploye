@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\struct1\struct1\bin\Debug\struct1.exe.config
+C:\Users\anuar\source\repos\struct1\struct1\bin\Debug\struct1.exe
+C:\Users\anuar\source\repos\struct1\struct1\bin\Debug\struct1.pdb
+C:\Users\anuar\source\repos\struct1\struct1\obj\Debug\Employe.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\struct1\struct1\obj\Debug\Employe.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\struct1\struct1\obj\Debug\struct1.exe
+C:\Users\anuar\source\repos\struct1\struct1\obj\Debug\struct1.pdb
